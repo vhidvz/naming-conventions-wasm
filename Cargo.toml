@@ -2,7 +2,7 @@
 name = "naming-conventions-wasm"
 description = "Naming Conventions - WebAssembly"
 
-version = "1.0.1"
+version = "1.0.2"
 authors = ["Vahid V. <vhid.vz@gmail.com>"]
 edition = "2018"
 
