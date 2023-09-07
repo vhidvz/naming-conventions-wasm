@@ -1,8 +1,19 @@
 [package]
 name = "naming-conventions-wasm"
-version = "1.0.0"
+description = "Naming Conventions - WebAssembly"
+
+version = "1.0.1"
 authors = ["Vahid V. <vhid.vz@gmail.com>"]
 edition = "2018"
+
+# https://crates.io/category_slugs
+categories = ["wasm"]
+
+keywords = ["conventions", "naming-conventions"]
+homepage = "https://github.com/vhidvz/naming-conventions-wasm"
+repository = "https://github.com/vhidvz/naming-conventions-wasm.git"
+
+license = "MIT"
 
 [lib]
 crate-type = ["cdylib", "rlib"]
