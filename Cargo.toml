@@ -2,7 +2,7 @@
 name = "naming-conventions-wasm"
 description = "Naming Conventions - WebAssembly"
 
-version = "1.0.2"
+version = "1.0.3"
 authors = ["Vahid V. <vhid.vz@gmail.com>"]
 edition = "2018"
 
@@ -13,7 +13,7 @@ keywords = ["conventions", "naming-conventions"]
 homepage = "https://github.com/vhidvz/naming-conventions-wasm"
 repository = "https://github.com/vhidvz/naming-conventions-wasm.git"
 
-license = "MIT"
+license = "Apache License 2.0"
 
 [lib]
 crate-type = ["cdylib", "rlib"]

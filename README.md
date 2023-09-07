@@ -17,4 +17,4 @@ console.log("is snake_case:", is_snake_case("camelCase"));
 
 ## License
 
-[MIT](https://github.com/vhidvz/naming-conventions-wasm/blob/main/LICENSE)
+[Apache License 2.0](https://github.com/vhidvz/naming-conventions-wasm/blob/main/LICENSE)
